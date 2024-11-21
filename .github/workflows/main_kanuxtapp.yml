@@ -68,4 +68,5 @@ jobs:
           app-name: 'kanuxtapp'
           slot-name: 'Production'
           package: .
+          include-hidden-files: true
           
